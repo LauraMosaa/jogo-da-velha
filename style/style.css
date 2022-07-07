@@ -62,3 +62,15 @@ button {
 button:hover {
     background-color: rgb(173, 92, 255);
 }
+
+.certa {
+background-color: blueviolet;
+border: 1px solid blueviolet;
+cursor: inherit;
+}
+
+.errada {
+    background-color: red;
+border: 1px solid red;
+cursor: inherit;
+}
